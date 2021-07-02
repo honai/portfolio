@@ -1,6 +1,3 @@
----
-permalink: /_redirects
----
 /rss /blog/rss.xml 301
 /blog/post/makefile-python-task-runner /blog/2020/makefile-python-task-runner/ 301
 /blog/post/comet-ml-logging /blog/2020/comet-ml-logging/ 301
